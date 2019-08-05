@@ -1,0 +1,1048 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+                              src/main.o (BRD_init)
+C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(system_stm32f4xx.o)
+                              C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o) (SystemCoreClock)
+C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+                              C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o) (HAL_Init)
+C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+                              C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o) (HAL_NVIC_SetPriorityGrouping)
+C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+                              C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o) (HAL_GPIO_Init)
+C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+                              C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o) (HAL_UART_Init)
+C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+                              C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o) (HAL_DMA_Start_IT)
+C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+                              C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o) (HAL_RCC_GetPCLK1Freq)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o) (__aeabi_uldivmod)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+                              C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o) (strlen)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+uwTick              0x4               C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+__lock___env_recursive_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+UART_debug          0x40              C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x00000000       0x74 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .text          0x00000000        0x0 src/main.o
+ .data          0x00000000        0x0 src/main.o
+ .bss           0x00000000        0x0 src/main.o
+ .text.hamming_decoder
+                0x00000000        0x2 src/main.o
+ .text.hamming_hbyte_encoder
+                0x00000000       0x5c src/main.o
+ .text.hamming_byte_encoder
+                0x00000000       0x1c src/main.o
+ .text          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .data          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .bss           0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .text.BRD_LEDOn
+                0x00000000       0x30 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .text.BRD_debuguart_init
+                0x00000000       0xb8 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .text.BRD_debuguart_putc
+                0x00000000       0x20 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .text.BRD_debuguart_puts
+                0x00000000       0x28 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .text.BRD_debuguart_putm
+                0x00000000       0x1c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .text.BRD_debuguart_getc
+                0x00000000       0x2c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .text.HAL_Delayus
+                0x00000000       0x38 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .text          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(system_stm32f4xx.o)
+ .bss           0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(system_stm32f4xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0x70 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(system_stm32f4xx.o)
+ .text          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .data          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .bss           0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_MspDeInit
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_DeInit
+                0x00000000       0x2c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_SuspendTick
+                0x00000000       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_ResumeTick
+                0x00000000       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_GetREVID
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_GetDEVID
+                0x00000000       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_EnableCompensationCell
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_DisableCompensationCell
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_GetUID
+                0x00000000       0x1c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_EnableMemorySwappingBank
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text.HAL_DisableMemorySwappingBank
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .text          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .data          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .bss           0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x18 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x1c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_MPU_Disable
+                0x00000000       0x20 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_MPU_Enable
+                0x00000000       0x24 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x54 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x1c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x1c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x18 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .text          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .data          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .bss           0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x174 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_WritePin
+                0x00000000        0x8 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_TogglePin
+                0x00000000        0x8 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x18 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .text          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .data          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .bss           0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_HalfDuplex_Init
+                0x00000000       0x68 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_LIN_Init
+                0x00000000       0x7c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_MultiProcessor_Init
+                0x00000000       0x84 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_MspDeInit
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_DeInit
+                0x00000000       0x28 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_Transmit
+                0x00000000      0x108 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_Receive
+                0x00000000      0x104 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_Transmit_IT
+                0x00000000       0x44 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_Receive_IT
+                0x00000000       0x4c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_Transmit_DMA
+                0x00000000       0x78 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_Receive_DMA
+                0x00000000       0x94 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_DMAPause
+                0x00000000       0x64 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_DMAResume
+                0x00000000       0x78 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_DMAStop
+                0x00000000       0x74 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_Abort
+                0x00000000       0x64 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_AbortTransmit
+                0x00000000       0x34 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_AbortReceive
+                0x00000000       0x3c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_TxCpltCallback
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.UART_DMATransmitCplt
+                0x00000000       0x2c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_TxHalfCpltCallback
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.UART_DMATxHalfCplt
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_RxCpltCallback
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.UART_DMAReceiveCplt
+                0x00000000       0x38 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_RxHalfCpltCallback
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.UART_DMARxHalfCplt
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_ErrorCallback
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.UART_DMAError
+                0x00000000       0x60 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_IRQHandler
+                0x00000000      0x284 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.UART_DMAAbortOnError
+                0x00000000       0x14 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_AbortCpltCallback
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_Abort_IT
+                0x00000000       0xb0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.UART_DMARxAbortCallback
+                0x00000000       0x30 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.UART_DMATxAbortCallback
+                0x00000000       0x30 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_AbortTransmitCpltCallback
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_AbortTransmit_IT
+                0x00000000       0x60 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.UART_DMATxOnlyAbortCallback
+                0x00000000       0x18 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_AbortReceiveCpltCallback
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_AbortReceive_IT
+                0x00000000       0x68 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.UART_DMARxOnlyAbortCallback
+                0x00000000       0x18 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_LIN_SendBreak
+                0x00000000       0x34 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_MultiProcessor_EnterMuteMode
+                0x00000000       0x34 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_MultiProcessor_ExitMuteMode
+                0x00000000       0x34 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_HalfDuplex_EnableTransmitter
+                0x00000000       0x38 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_HalfDuplex_EnableReceiver
+                0x00000000       0x38 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_GetState
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_GetError
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .data          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .bss           0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_Init
+                0x00000000      0x134 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_DeInit
+                0x00000000       0x78 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_Start
+                0x00000000       0x5c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x84 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_Abort
+                0x00000000       0x90 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x24 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x218 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x1a0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x60 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x6c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_GetState
+                0x00000000        0x8 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .rodata        0x00000000        0x8 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .comment       0x00000000       0x80 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .ARM.attributes
+                0x00000000       0x39 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_dma.o)
+ .text          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .data          0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .bss           0x00000000        0x0 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_DeInit
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_OscConfig
+                0x00000000      0x33c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0xa4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_GetSysClockFreq
+                0x00000000       0x6c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_ClockConfig
+                0x00000000      0x134 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0x98 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x44 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .text          0x00000000       0x14 C:\Users\Kevin\AppData\Local\Temp\cc0Gak57.o
+ .data          0x00000000        0x0 C:\Users\Kevin\AppData\Local\Temp\cc0Gak57.o
+ .bss           0x00000000        0x0 C:\Users\Kevin\AppData\Local\Temp\cc0Gak57.o
+ .text          0x00000000       0x30 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000      0x2dc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .text          0x00000000       0xdc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xe8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .jcr           0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00030000         xrw
+ROM              0x08000000         0x00200000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD src/main.o
+LOAD C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a
+LOAD C:\Users\Kevin\AppData\Local\Temp\cc0Gak57.o
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a
+START GROUP
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a
+END GROUP
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                0x20030000                _estack = 0x20030000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x1ac
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1ac C:\Users\Kevin\AppData\Local\Temp\cc0Gak57.o
+                0x08000000                g_pfnVectors
+                0x080001ac                . = ALIGN (0x4)
+
+.text           0x080001ac      0xc1c
+                0x080001ac                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001ac       0x6c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ *(.text*)
+ .text.SysTick_Handler
+                0x08000218        0xc src/main.o
+                0x08000218                SysTick_Handler
+ .text.Hardware_init
+                0x08000224       0x1a src/main.o
+                0x08000224                Hardware_init
+ .text.main     0x0800023e       0x1a src/main.o
+                0x0800023e                main
+ .text.BRD_init
+                0x08000258       0xe4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+                0x08000258                BRD_init
+ .text.BRD_LEDInit
+                0x0800033c       0x8c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+                0x0800033c                BRD_LEDInit
+ .text.BRD_LEDOff
+                0x080003c8       0x30 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+                0x080003c8                BRD_LEDOff
+ .text.BRD_LEDToggle
+                0x080003f8       0x30 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+                0x080003f8                BRD_LEDToggle
+ .text.SystemInit
+                0x08000428       0x50 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(system_stm32f4xx.o)
+                0x08000428                SystemInit
+ .text.HAL_MspInit
+                0x08000478        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+                0x08000478                HAL_MspInit
+ .text.HAL_InitTick
+                0x0800047c       0x2c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+                0x0800047c                HAL_InitTick
+ .text.HAL_Init
+                0x080004a8       0x34 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+                0x080004a8                HAL_Init
+ .text.HAL_IncTick
+                0x080004dc       0x10 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+                0x080004dc                HAL_IncTick
+ .text.HAL_GetTick
+                0x080004ec        0xc C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+                0x080004ec                HAL_GetTick
+ .text.HAL_Delay
+                0x080004f8       0x24 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+                0x080004f8                HAL_Delay
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x0800051c       0x24 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+                0x0800051c                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000540       0x6c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+                0x08000540                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x080005ac       0x34 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+                0x080005ac                HAL_SYSTICK_Config
+ .text.HAL_SYSTICK_Callback
+                0x080005e0        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+                0x080005e0                HAL_SYSTICK_Callback
+ .text.HAL_SYSTICK_IRQHandler
+                0x080005e4        0x8 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+                0x080005e4                HAL_SYSTICK_IRQHandler
+ .text.HAL_GPIO_Init
+                0x080005ec      0x25c C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+                0x080005ec                HAL_GPIO_Init
+ .text.UART_SetConfig
+                0x08000848      0x300 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .text.HAL_UART_MspInit
+                0x08000b48        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+                0x08000b48                HAL_UART_MspInit
+ .text.HAL_UART_Init
+                0x08000b4c       0x60 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+                0x08000b4c                HAL_UART_Init
+ .text.HAL_RCC_GetPCLK1Freq
+                0x08000bac       0x20 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+                0x08000bac                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCC_GetPCLK2Freq
+                0x08000bcc       0x20 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+                0x08000bcc                HAL_RCC_GetPCLK2Freq
+ .text.Reset_Handler
+                0x08000bec       0x50 C:\Users\Kevin\AppData\Local\Temp\cc0Gak57.o
+                0x08000bec                Reset_Handler
+ .text.Default_Handler
+                0x08000c3c        0x2 C:\Users\Kevin\AppData\Local\Temp\cc0Gak57.o
+                0x08000c3c                RTC_Alarm_IRQHandler
+                0x08000c3c                HASH_RNG_IRQHandler
+                0x08000c3c                EXTI2_IRQHandler
+                0x08000c3c                TIM8_CC_IRQHandler
+                0x08000c3c                DebugMon_Handler
+                0x08000c3c                UART8_IRQHandler
+                0x08000c3c                SPI4_IRQHandler
+                0x08000c3c                TIM1_CC_IRQHandler
+                0x08000c3c                DMA2_Stream5_IRQHandler
+                0x08000c3c                HardFault_Handler
+                0x08000c3c                DMA1_Stream5_IRQHandler
+                0x08000c3c                PVD_IRQHandler
+                0x08000c3c                SDIO_IRQHandler
+                0x08000c3c                TAMP_STAMP_IRQHandler
+                0x08000c3c                PendSV_Handler
+                0x08000c3c                NMI_Handler
+                0x08000c3c                CAN2_RX1_IRQHandler
+                0x08000c3c                EXTI3_IRQHandler
+                0x08000c3c                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08000c3c                TIM1_UP_TIM10_IRQHandler
+                0x08000c3c                TIM8_UP_TIM13_IRQHandler
+                0x08000c3c                I2C3_ER_IRQHandler
+                0x08000c3c                EXTI0_IRQHandler
+                0x08000c3c                I2C2_EV_IRQHandler
+                0x08000c3c                DMA1_Stream2_IRQHandler
+                0x08000c3c                CAN1_RX0_IRQHandler
+                0x08000c3c                FPU_IRQHandler
+                0x08000c3c                OTG_HS_WKUP_IRQHandler
+                0x08000c3c                UsageFault_Handler
+                0x08000c3c                LTDC_ER_IRQHandler
+                0x08000c3c                CAN2_SCE_IRQHandler
+                0x08000c3c                DMA2_Stream2_IRQHandler
+                0x08000c3c                SPI1_IRQHandler
+                0x08000c3c                TIM6_DAC_IRQHandler
+                0x08000c3c                TIM1_BRK_TIM9_IRQHandler
+                0x08000c3c                DCMI_IRQHandler
+                0x08000c3c                CAN2_RX0_IRQHandler
+                0x08000c3c                DMA2_Stream3_IRQHandler
+                0x08000c3c                USART6_IRQHandler
+                0x08000c3c                USART3_IRQHandler
+                0x08000c3c                CAN1_RX1_IRQHandler
+                0x08000c3c                UART5_IRQHandler
+                0x08000c3c                DMA2_Stream0_IRQHandler
+                0x08000c3c                TIM4_IRQHandler
+                0x08000c3c                I2C1_EV_IRQHandler
+                0x08000c3c                DMA1_Stream6_IRQHandler
+                0x08000c3c                DMA1_Stream1_IRQHandler
+                0x08000c3c                UART4_IRQHandler
+                0x08000c3c                TIM3_IRQHandler
+                0x08000c3c                RCC_IRQHandler
+                0x08000c3c                TIM8_BRK_TIM12_IRQHandler
+                0x08000c3c                Default_Handler
+                0x08000c3c                EXTI15_10_IRQHandler
+                0x08000c3c                ADC_IRQHandler
+                0x08000c3c                DMA1_Stream7_IRQHandler
+                0x08000c3c                SPI5_IRQHandler
+                0x08000c3c                TIM7_IRQHandler
+                0x08000c3c                CAN2_TX_IRQHandler
+                0x08000c3c                TIM5_IRQHandler
+                0x08000c3c                DMA2_Stream7_IRQHandler
+                0x08000c3c                I2C3_EV_IRQHandler
+                0x08000c3c                EXTI9_5_IRQHandler
+                0x08000c3c                RTC_WKUP_IRQHandler
+                0x08000c3c                LTDC_IRQHandler
+                0x08000c3c                ETH_WKUP_IRQHandler
+                0x08000c3c                SPI2_IRQHandler
+                0x08000c3c                OTG_HS_EP1_IN_IRQHandler
+                0x08000c3c                MemManage_Handler
+                0x08000c3c                DMA1_Stream0_IRQHandler
+                0x08000c3c                CAN1_TX_IRQHandler
+                0x08000c3c                SVC_Handler
+                0x08000c3c                EXTI4_IRQHandler
+                0x08000c3c                ETH_IRQHandler
+                0x08000c3c                OTG_HS_EP1_OUT_IRQHandler
+                0x08000c3c                WWDG_IRQHandler
+                0x08000c3c                SPI6_IRQHandler
+                0x08000c3c                TIM2_IRQHandler
+                0x08000c3c                OTG_FS_WKUP_IRQHandler
+                0x08000c3c                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08000c3c                OTG_HS_IRQHandler
+                0x08000c3c                DMA2D_IRQHandler
+                0x08000c3c                EXTI1_IRQHandler
+                0x08000c3c                UART7_IRQHandler
+                0x08000c3c                USART2_IRQHandler
+                0x08000c3c                I2C2_ER_IRQHandler
+                0x08000c3c                DMA2_Stream1_IRQHandler
+                0x08000c3c                CAN1_SCE_IRQHandler
+                0x08000c3c                FLASH_IRQHandler
+                0x08000c3c                DMA2_Stream4_IRQHandler
+                0x08000c3c                BusFault_Handler
+                0x08000c3c                USART1_IRQHandler
+                0x08000c3c                OTG_FS_IRQHandler
+                0x08000c3c                SPI3_IRQHandler
+                0x08000c3c                DMA1_Stream4_IRQHandler
+                0x08000c3c                I2C1_ER_IRQHandler
+                0x08000c3c                FMC_IRQHandler
+                0x08000c3c                DMA2_Stream6_IRQHandler
+                0x08000c3c                SAI1_IRQHandler
+                0x08000c3c                DMA1_Stream3_IRQHandler
+ *fill*         0x08000c3e        0x2 
+ .text.__libc_init_array
+                0x08000c40       0x50 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+                0x08000c40                __libc_init_array
+ .text.startup.register_fini
+                0x08000c90       0x14 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08000ca4        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+                0x08000ca4                atexit
+ .text.__libc_fini_array
+                0x08000cb0       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+                0x08000cb0                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08000ce4        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x08000ce4                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08000ce8        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x08000ce8                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08000cec       0xc4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+                0x08000cec                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08000db0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000db0        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08000db0        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ *(.init)
+ .init          0x08000db0        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x08000db0                _init
+ .init          0x08000db4        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini)
+ .fini          0x08000dbc        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x08000dbc                _fini
+ .fini          0x08000dc0        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                0x08000dc8                . = ALIGN (0x4)
+                0x08000dc8                _etext = .
+
+.vfp11_veneer   0x08000dc8        0x0
+ .vfp11_veneer  0x08000dc8        0x0 linker stubs
+
+.v4_bx          0x08000dc8        0x0
+ .v4_bx         0x08000dc8        0x0 linker stubs
+
+.iplt           0x08000dc8        0x0
+ .iplt          0x08000dc8        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.rodata         0x08000dc8       0x1c
+                0x08000dc8                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08000dc8       0x18 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(system_stm32f4xx.o)
+                0x08000dc8                AHBPrescTable
+                0x08000dd8                APBPrescTable
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x08000de0        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+                0x08000de0                _global_impure_ptr
+                0x08000de4                . = ALIGN (0x4)
+
+.rel.dyn        0x08000de4        0x0
+ .rel.iplt      0x08000de4        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.ARM.extab      0x08000de4        0x0
+                0x08000de4                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08000de4                . = ALIGN (0x4)
+
+.ARM            0x08000de4        0x0
+                0x08000de4                . = ALIGN (0x4)
+                0x08000de4                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000de4                __exidx_end = .
+                0x08000de4                . = ALIGN (0x4)
+
+.preinit_array  0x08000de4        0x0
+                0x08000de4                . = ALIGN (0x4)
+                0x08000de4                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08000de4                PROVIDE (__preinit_array_end, .)
+                0x08000de4                . = ALIGN (0x4)
+
+.init_array     0x08000de4        0x8
+                0x08000de4                . = ALIGN (0x4)
+                0x08000de4                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x08000de4        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08000de8        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x08000dec                PROVIDE (__init_array_end, .)
+                0x08000dec                . = ALIGN (0x4)
+
+.fini_array     0x08000dec        0x4
+                0x08000dec                . = ALIGN (0x4)
+                0x08000dec                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08000dec        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x08000df0                PROVIDE (__fini_array_end, .)
+                0x08000df0                . = ALIGN (0x4)
+                0x08000df0                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x434 load address 0x08000df0
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(system_stm32f4xx.o)
+                0x20000000                SystemCoreClock
+ *(.data*)
+ *fill*         0x20000004        0x4 
+ .data.impure_data
+                0x20000008      0x428 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000430        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                0x20000430                __atexit_recursive_mutex
+                0x20000434                . = ALIGN (0x4)
+                0x20000434                _edata = .
+
+.jcr            0x20000434        0x0 load address 0x08001224
+ .jcr           0x20000434        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.igot.plt       0x20000434        0x0 load address 0x08001224
+ .igot.plt      0x20000434        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x20000434                . = ALIGN (0x4)
+
+.bss            0x20000434       0x84 load address 0x08001224
+                0x20000434                _sbss = .
+                0x20000434                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000434       0x1c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x20000450       0x40 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+                0x20000450                UART_debug
+ COMMON         0x20000490        0x4 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+                0x20000490                uwTick
+ COMMON         0x20000494       0x21 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x20000494                __lock___atexit_recursive_mutex
+                0x20000498                __lock___arc4random_mutex
+                0x2000049c                __lock___env_recursive_mutex
+                0x200004a0                __lock___sinit_recursive_mutex
+                0x200004a4                __lock___malloc_recursive_mutex
+                0x200004a8                __lock___at_quick_exit_mutex
+                0x200004ac                __lock___dd_hash_mutex
+                0x200004b0                __lock___tz_mutex
+                0x200004b4                __lock___sfp_recursive_mutex
+                0x200004b8                . = ALIGN (0x4)
+ *fill*         0x200004b5        0x3 
+                0x200004b8                _ebss = .
+                0x200004b8                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200004b8      0x400 load address 0x08001224
+                0x200004b8                . = ALIGN (0x8)
+                [!provide]                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x200004b8                . = (. + _Min_Heap_Size)
+                0x200008b8                . = (. + _Min_Stack_Size)
+ *fill*         0x200004b8      0x400 
+                0x200008b8                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x22 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x39 src/main.o
+ .ARM.attributes
+                0x0000008f       0x39 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .ARM.attributes
+                0x000000c8       0x39 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(system_stm32f4xx.o)
+ .ARM.attributes
+                0x00000101       0x39 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .ARM.attributes
+                0x0000013a       0x39 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .ARM.attributes
+                0x00000173       0x39 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .ARM.attributes
+                0x000001ac       0x39 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .ARM.attributes
+                0x000001e5       0x39 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+ .ARM.attributes
+                0x0000021e       0x21 C:\Users\Kevin\AppData\Local\Temp\cc0Gak57.o
+ .ARM.attributes
+                0x0000023f       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000273       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000002a7       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000002db       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000030f       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000343       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000377       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000003ab       0x22 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+OUTPUT(exercise4b.elf elf32-littlearm)
+
+.debug_info     0x00000000      0xc54
+ .debug_info    0x00000000      0xc54 src/main.o
+
+.debug_abbrev   0x00000000      0x29d
+ .debug_abbrev  0x00000000      0x29d src/main.o
+
+.debug_loc      0x00000000      0x14b
+ .debug_loc     0x00000000      0x14b src/main.o
+
+.debug_aranges  0x00000000       0x48
+ .debug_aranges
+                0x00000000       0x48 src/main.o
+
+.debug_ranges   0x00000000       0x38
+ .debug_ranges  0x00000000       0x38 src/main.o
+
+.debug_macro    0x00000000    0x23b48
+ .debug_macro   0x00000000      0x37e src/main.o
+ .debug_macro   0x0000037e      0x8c8 src/main.o
+ .debug_macro   0x00000c46      0x1b1 src/main.o
+ .debug_macro   0x00000df7       0x2c src/main.o
+ .debug_macro   0x00000e23       0x28 src/main.o
+ .debug_macro   0x00000e4b       0x22 src/main.o
+ .debug_macro   0x00000e6d       0x87 src/main.o
+ .debug_macro   0x00000ef4       0x51 src/main.o
+ .debug_macro   0x00000f45       0xef src/main.o
+ .debug_macro   0x00001034       0x6a src/main.o
+ .debug_macro   0x0000109e      0x1df src/main.o
+ .debug_macro   0x0000127d       0x35 src/main.o
+ .debug_macro   0x000012b2       0x50 src/main.o
+ .debug_macro   0x00001302      0xe66 src/main.o
+ .debug_macro   0x00002168    0x17e1c src/main.o
+ .debug_macro   0x00019f84       0x43 src/main.o
+ .debug_macro   0x00019fc7     0x35a5 src/main.o
+ .debug_macro   0x0001d56c       0x58 src/main.o
+ .debug_macro   0x0001d5c4       0x35 src/main.o
+ .debug_macro   0x0001d5f9       0x9c src/main.o
+ .debug_macro   0x0001d695       0x16 src/main.o
+ .debug_macro   0x0001d6ab       0x97 src/main.o
+ .debug_macro   0x0001d742      0x330 src/main.o
+ .debug_macro   0x0001da72       0xfd src/main.o
+ .debug_macro   0x0001db6f       0x10 src/main.o
+ .debug_macro   0x0001db7f       0x58 src/main.o
+ .debug_macro   0x0001dbd7       0x1f src/main.o
+ .debug_macro   0x0001dbf6       0x43 src/main.o
+ .debug_macro   0x0001dc39       0x20 src/main.o
+ .debug_macro   0x0001dc59      0x187 src/main.o
+ .debug_macro   0x0001dde0       0x10 src/main.o
+ .debug_macro   0x0001ddf0       0x1c src/main.o
+ .debug_macro   0x0001de0c       0x52 src/main.o
+ .debug_macro   0x0001de5e       0x40 src/main.o
+ .debug_macro   0x0001de9e       0x10 src/main.o
+ .debug_macro   0x0001deae       0x40 src/main.o
+ .debug_macro   0x0001deee       0xd7 src/main.o
+ .debug_macro   0x0001dfc5       0x16 src/main.o
+ .debug_macro   0x0001dfdb      0x18b src/main.o
+ .debug_macro   0x0001e166       0x56 src/main.o
+ .debug_macro   0x0001e1bc      0xca5 src/main.o
+ .debug_macro   0x0001ee61      0x9e6 src/main.o
+ .debug_macro   0x0001f847      0x11e src/main.o
+ .debug_macro   0x0001f965      0x15f src/main.o
+ .debug_macro   0x0001fac4       0x27 src/main.o
+ .debug_macro   0x0001faeb      0x287 src/main.o
+ .debug_macro   0x0001fd72       0x5f src/main.o
+ .debug_macro   0x0001fdd1      0x23a src/main.o
+ .debug_macro   0x0002000b      0x391 src/main.o
+ .debug_macro   0x0002039c      0x184 src/main.o
+ .debug_macro   0x00020520       0xf9 src/main.o
+ .debug_macro   0x00020619      0xcd5 src/main.o
+ .debug_macro   0x000212ee      0x13a src/main.o
+ .debug_macro   0x00021428      0x41d src/main.o
+ .debug_macro   0x00021845       0x2e src/main.o
+ .debug_macro   0x00021873      0x1a7 src/main.o
+ .debug_macro   0x00021a1a       0x22 src/main.o
+ .debug_macro   0x00021a3c       0xa5 src/main.o
+ .debug_macro   0x00021ae1      0x11e src/main.o
+ .debug_macro   0x00021bff       0xe2 src/main.o
+ .debug_macro   0x00021ce1       0x89 src/main.o
+ .debug_macro   0x00021d6a      0x202 src/main.o
+ .debug_macro   0x00021f6c      0x6e0 src/main.o
+ .debug_macro   0x0002264c       0x59 src/main.o
+ .debug_macro   0x000226a5      0x14d src/main.o
+ .debug_macro   0x000227f2      0x287 src/main.o
+ .debug_macro   0x00022a79      0x225 src/main.o
+ .debug_macro   0x00022c9e      0x12c src/main.o
+ .debug_macro   0x00022dca      0xd68 src/main.o
+ .debug_macro   0x00023b32       0x16 src/main.o
+
+.debug_line     0x00000000      0x97d
+ .debug_line    0x00000000      0x97d src/main.o
+
+.debug_str      0x00000000    0xe1ad3
+ .debug_str     0x00000000    0xe1ad3 src/main.o
+                              0xe1daa (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f src/main.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(board.o)
+ .comment       0x0000007f       0x80 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(system_stm32f4xx.o)
+ .comment       0x0000007f       0x80 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal.o)
+ .comment       0x0000007f       0x80 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_cortex.o)
+ .comment       0x0000007f       0x80 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_gpio.o)
+ .comment       0x0000007f       0x80 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_uart.o)
+ .comment       0x0000007f       0x80 C:/Users/Kevin/Desktop/Kevin UQ/csse3010/CSSE3010-s4408736/sourcelib/boardlib/Release/libboardlib.a(stm32f4xx_hal_rcc.o)
+
+.debug_frame    0x00000000      0x260
+ .debug_frame   0x00000000       0xa0 src/main.o
+ .debug_frame   0x000000a0       0x2c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_frame   0x000000cc       0x5c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000128       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000148       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_frame   0x0000017c       0xb0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .debug_frame   0x0000022c       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
